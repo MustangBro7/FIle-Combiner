@@ -1,11 +1,11 @@
 # File Combiner
 Have you ever tried combining PDF's or PPT's online but hated the experience , well now you can do it from your own terminal!!!!
 
-## Installation
+## Installation:
 To set this up clone this repo , switch into the cloned folder and execute the following commands:
         pip install .
 
-## How to use
+## How to use:
 To combine files execute the command in this format:
         concat [input file paths] [output file path]
 
