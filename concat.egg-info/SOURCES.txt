@@ -1,0 +1,8 @@
+file_concat.py
+setup.py
+concat.egg-info/PKG-INFO
+concat.egg-info/SOURCES.txt
+concat.egg-info/dependency_links.txt
+concat.egg-info/entry_points.txt
+concat.egg-info/requires.txt
+concat.egg-info/top_level.txt
